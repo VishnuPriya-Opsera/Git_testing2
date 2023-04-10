@@ -19,3 +19,4 @@ let func3 =(a,b)=> {
 }
 // function calling
 console.log(func3(7,8));
+console.log(func1(10,12));
