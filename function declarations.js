@@ -22,3 +22,5 @@ console.log(func3(7,8));
 
 //calling func1 function again
 console.log(func1(10,12));
+// calling func2 
+console.log(func2(func1(11,4),18));
